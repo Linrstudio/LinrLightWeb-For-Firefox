@@ -1,0 +1,7 @@
+<!ENTITY linrllw.LinrLightWeb "点亮网页">
+<!ENTITY linrllw.EditorTab "即时编辑(F4)">
+<!ENTITY linrllw.EditorDesc "所见即所得网页编辑器">
+<!ENTITY linrllw.RefreshTab "刷新CSS(F2)">
+<!ENTITY linrllw.RefreshDesc "仅刷新CSS">
+<!ENTITY linrllw.CSSSpritesTab "CSS Sprites">
+<!ENTITY linrllw.CSSSpritesDesc "Css Sprites背景;图片,background-position位置轻松设置">

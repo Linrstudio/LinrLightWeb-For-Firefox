@@ -1,0 +1,7 @@
+<!ENTITY linrllw.LinrLightWeb "點亮網頁">
+<!ENTITY linrllw.EditorTab "即時編輯(F4)">
+<!ENTITY linrllw.EditorDesc "所見即所得網頁編輯器">
+<!ENTITY linrllw.RefreshTab "刷新CSS(F2)">
+<!ENTITY linrllw.RefreshDesc "僅刷新CSS">
+<!ENTITY linrllw.CSSSpritesTab "CSS Sprites">
+<!ENTITY linrllw.CSSSpritesDesc "Css Sprites背景;圖片,background-position位置輕松設置">

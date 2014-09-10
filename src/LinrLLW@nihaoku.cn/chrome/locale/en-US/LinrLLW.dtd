@@ -1,0 +1,9 @@
+<!ENTITY linrllw.LinrLightWeb "LinrLightWeb">
+<!ENTITY linrllw.EditorTab "Editor(F4)">
+<!ENTITY linrllw.EditorDesc "WYSIWYG Editor">
+<!ENTITY linrllw.RefreshTab "Refresh CSS(F2)">
+<!ENTITY linrllw.RefreshDesc "Refresh CSS,keep DOM">
+<!ENTITY linrllw.CSSSpritesTab "CSS Sprites">
+<!ENTITY linrllw.CSSSpritesDesc "CSS Sprites Fast setting(background-position)">
+
+

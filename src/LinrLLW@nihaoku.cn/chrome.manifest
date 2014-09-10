@@ -1,0 +1,6 @@
+content linrllw chrome/content/linrllw/ xpcnativewrappers=no
+locale  linrllw zh-CN       chrome/locale/zh-CN/
+locale  linrllw en-US       chrome/locale/en-US/
+locale  linrllw en-TW       chrome/locale/en-TW/
+locale  linrllw en-HK       chrome/locale/en-TW/
+overlay chrome://firebug/content/firebugOverlay.xul         chrome://linrllw/content/LinrLLW.xul

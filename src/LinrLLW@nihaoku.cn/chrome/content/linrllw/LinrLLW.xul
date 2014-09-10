@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LinrLLWDTD SYSTEM "chrome://linrllw/locale/LinrLLW.dtd">
+<overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<script src="chrome://linrllw/content/LinrLLW.js" type="application/x-javascript" />
+	<stringbundleset id="stringbundleset">
+		<stringbundle id="llw-bundle" src="chrome://linrllw/locale/LinrLLW.properties" />
+	</stringbundleset>
+	<commandset id="mainCommandSet">
+	<command id="cmd_button3FirebugTestExtension" oncommand="Firebug.LinrLLWModel.editHTML()"/>
+  </commandset>
+</overlay> 
