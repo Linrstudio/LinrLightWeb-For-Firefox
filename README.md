@@ -11,6 +11,14 @@
 5. 保持登录状态，Session 不过期；禁用
 6. 同步发行 IE版，Chrome版。
 
+You must install Firebug: https://addons.mozilla.org/en-US/firefox/addon/1843
+1.CSS Sprites:Get background-position easily!
+2.The most advanced Selector:Find tag and replace;
+3.Only Refresh CSS;
+4.WYSIWYG editor;
+5.Session saver
+
+
 ### 下载插件 Add-on
 
 * 中文：https://addons.mozilla.org/zh-CN/firefox/addon/linrlightweb/?src=search
