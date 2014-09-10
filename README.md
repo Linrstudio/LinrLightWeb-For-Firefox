@@ -2,7 +2,7 @@
 
 ### 主要功能 feature：
 
-* * 安装前，请确认您已安装 Firebug 插件，获取 Firebug 请访问:http://getfirebug.com/
+* 安装前，请确认您已安装 Firebug 插件，获取 Firebug 请访问:http://getfirebug.com/
 
 1. 开启网页编辑模式，随意编辑网页——Fiddler的好搭档；
 2. 超强 Selector 工具，查找操作标记；
@@ -13,8 +13,8 @@
 
 ### 下载插件 Add-on
 
-中文：https://addons.mozilla.org/zh-CN/firefox/addon/linrlightweb/?src=search
-en-us: https://addons.mozilla.org/en-US/firefox/addon/linrlightweb/?src=search
+* 中文：https://addons.mozilla.org/zh-CN/firefox/addon/linrlightweb/?src=search
+* en-us: https://addons.mozilla.org/en-US/firefox/addon/linrlightweb/?src=search
 
 ### 系统要求 system requred:
 
